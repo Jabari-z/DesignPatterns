@@ -7,7 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/3_FactoryMathod/3_FactoryMathod.iml" filepath="$PROJECT_DIR$/3_FactoryMathod/3_FactoryMathod.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_Prototype/4_Prototype.iml" filepath="$PROJECT_DIR$/4_Prototype/4_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_Singleton/5_Singleton.iml" filepath="$PROJECT_DIR$/5_Singleton/5_Singleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/6/6.iml" filepath="$PROJECT_DIR$/6/6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Adapter/6_Adapter.iml" filepath="$PROJECT_DIR$/6_Adapter/6_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_Bridge/7_Bridge.iml" filepath="$PROJECT_DIR$/7_Bridge/7_Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_Composite/8_Composite.iml" filepath="$PROJECT_DIR$/8_Composite/8_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_Decorator/9_Decorator.iml" filepath="$PROJECT_DIR$/9_Decorator/9_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
     </modules>
   </component>
