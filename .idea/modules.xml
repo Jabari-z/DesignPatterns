@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_Facade/10_Facade.iml" filepath="$PROJECT_DIR$/10_Facade/10_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Proxy/11_Proxy.iml" filepath="$PROJECT_DIR$/11_Proxy/11_Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Filter/12_Filter.iml" filepath="$PROJECT_DIR$/12_Filter/12_Filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_AbstructFactory/1_AbstructFactory.iml" filepath="$PROJECT_DIR$/1_AbstructFactory/1_AbstructFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Builder/2_Builder.iml" filepath="$PROJECT_DIR$/2_Builder/2_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_FactoryMathod/3_FactoryMathod.iml" filepath="$PROJECT_DIR$/3_FactoryMathod/3_FactoryMathod.iml" />
